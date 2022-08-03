@@ -1,1 +1,1 @@
-export * from './src/SmartOTP'
+export * as PopupSmartOTP from './src/SmartOTP'
