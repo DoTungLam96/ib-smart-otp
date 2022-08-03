@@ -1,0 +1,24 @@
+{
+  "name": "ib-smart-otp",
+  "version": "1.0.1",
+  "description": "none",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+   "lamdt",
+   "ib-smart-otp"
+  ],
+   "peerDependencies": {
+    "react-native": "*",
+    "react": "*",
+    "@twotalltotems/react-native-otp-input": "*"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+htttps://github.com/DoTungLam96/ib-smart-otp"
+  },
+  "author": "LamDT",
+  "license": "MIT"
+}
